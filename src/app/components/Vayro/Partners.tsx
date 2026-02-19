@@ -30,7 +30,7 @@ const partners = [
 
 const Partners = () => {
     return (
-        <section id="support" className="py-24 overflow-hidden relative">
+        <section id="support" className="py-24 overflow-hidden relative bg-black">
             <div className="max-w-7xl mx-auto px-6 mb-16 fade-in text-center relative z-10">
                 <h2 className="text-3xl lg:text-5xl font-black text-white mb-6 tracking-tight font-heading uppercase italic">
                     Our Support System

@@ -10,7 +10,7 @@ const WhyChooseUs = () => {
     ];
 
     return (
-        <section id="why-us" className="py-24">
+        <section id="why-us" className="py-24 bg-black">
             <div className="max-w-7xl mx-auto px-6">
                 <div className="bg-gray-900 rounded-[3rem] p-12 lg:p-20 overflow-hidden relative">
                     {/* Decorative Background */}

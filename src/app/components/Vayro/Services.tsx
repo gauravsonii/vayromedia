@@ -13,7 +13,7 @@ const services = [
 
 const Services = () => {
     return (
-        <section id="services" className="py-24 overflow-hidden relative">
+        <section id="services" className="py-24 overflow-hidden relative bg-black">
             <div className="max-w-7xl mx-auto px-6 mb-20 fade-in relative z-10">
                 <div className="flex flex-col md:flex-row md:items-end justify-between gap-8">
                     <div className="max-w-2xl">

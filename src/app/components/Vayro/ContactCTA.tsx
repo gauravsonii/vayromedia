@@ -2,7 +2,7 @@ import React from 'react';
 
 const ContactCTA = () => {
     return (
-        <section id="contact" className="py-24 relative overflow-hidden">
+        <section id="contact" className="py-24 relative overflow-hidden bg-black">
             <div className="max-w-4xl mx-auto px-6 text-center fade-in relative z-10">
                 <h2 className="text-4xl lg:text-6xl font-black text-white mb-8 tracking-tighter uppercase font-heading italic">
                     Let’s Grow Your Brand <span className="text-vayroOrange italic">Digitally.</span>

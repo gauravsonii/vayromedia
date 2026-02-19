@@ -2,7 +2,7 @@ import React from 'react';
 
 const About = () => {
     return (
-        <section id="about" className="py-24 overflow-hidden">
+        <section id="about" className="py-24 bg-black overflow-hidden">
             <div className="max-w-7xl mx-auto px-6">
                 <div className="grid grid-cols-1 lg:grid-cols-2 gap-16 items-center">
                     <div className="relative fade-in">
@@ -25,21 +25,21 @@ const About = () => {
 
                     <div className="grid grid-cols-2 gap-6 fade-in delay-200">
                         <div className="space-y-6 pt-12">
-                            <div className="p-8 bg-gray-50 rounded-2xl hover:bg-white hover:shadow-xl transition-all duration-300 border border-transparent hover:border-gray-100">
+                            <div className="p-8 bg-white/5 rounded-2xl hover:bg-white/10 hover:shadow-xl transition-all duration-300 border border-white/10">
                                 <div className="text-4xl font-bold text-vayroOrange mb-2">12+</div>
                                 <div className="text-sm font-semibold text-gray-500 uppercase tracking-widest">Global Partners</div>
                             </div>
-                            <div className="p-8 bg-gray-50 rounded-2xl hover:bg-white hover:shadow-xl transition-all duration-300 border border-transparent hover:border-gray-100">
+                            <div className="p-8 bg-white/5 rounded-2xl hover:bg-white/10 hover:shadow-xl transition-all duration-300 border border-white/10">
                                 <div className="text-4xl font-bold text-vayroOrange mb-2">50%</div>
                                 <div className="text-sm font-semibold text-gray-500 uppercase tracking-widest">ROI Focused</div>
                             </div>
                         </div>
                         <div className="space-y-6">
-                            <div className="p-8 bg-gray-50 rounded-2xl hover:bg-white hover:shadow-xl transition-all duration-300 border border-transparent hover:border-gray-100">
+                            <div className="p-8 bg-white/5 rounded-2xl hover:bg-white/10 hover:shadow-xl transition-all duration-300 border border-white/10">
                                 <div className="text-4xl font-bold text-vayroOrange mb-2">24/7</div>
                                 <div className="text-sm font-semibold text-gray-500 uppercase tracking-widest">Support</div>
                             </div>
-                            <div className="p-8 bg-gray-50 rounded-2xl hover:bg-white hover:shadow-xl transition-all duration-300 border border-transparent hover:border-gray-100">
+                            <div className="p-8 bg-white/5 rounded-2xl hover:bg-white/10 hover:shadow-xl transition-all duration-300 border border-white/10">
                                 <div className="text-4xl font-bold text-vayroOrange mb-2">100%</div>
                                 <div className="text-sm font-semibold text-gray-500 uppercase tracking-widest">Execution</div>
                             </div>
