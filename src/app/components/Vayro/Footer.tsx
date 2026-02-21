@@ -42,7 +42,7 @@ const Footer = () => {
                             href="mailto:hello@vayromedia.com"
                             className="text-xl font-bold text-white hover:text-vayroOrange transition-colors underline decoration-vayroOrange underline-offset-8 font-heading"
                         >
-                            hello@vayromedia.com
+                            Vayromedia12@gmal.com
                         </a>
                     </div>
                     <div className="block">
@@ -50,7 +50,7 @@ const Footer = () => {
                             href="tel:8253035707"
                             className="text-2xl font-black text-white hover:text-vayroOrange transition-colors font-heading"
                         >
-                            +91 8253035707
+                            +91 8253015657
                         </a>
                     </div>
                 </div>
